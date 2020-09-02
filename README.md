@@ -1,2 +1,2 @@
 # status
-The status page for Clown Hunters. Join the server!c 
+The status page for Clown Hunters. Join the server! 
